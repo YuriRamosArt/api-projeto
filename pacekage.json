@@ -8,5 +8,9 @@
     },
     "scripts": {
         "dev": "vercel dev"
+    },
+    "depencies": {
+        "mongodb": "^7.2.0"
     }
+
 }
